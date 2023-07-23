@@ -1,0 +1,22 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "Car",
+      "capacity": 4,
+      "price": "$50"
+    },
+    {
+      "id": 2,
+      "name": "Van",
+      "capacity": 8,
+      "price": "$80"
+    },
+    {
+      "id": 3,
+      "name": "Bus",
+      "capacity": 20,
+      "price": "$150"
+    }
+  ]
+}
